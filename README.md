@@ -3,7 +3,7 @@ Server-client Python scripts that allows server to send microphone stream into L
 
 ## Installation
 ### Windows
-Run `pip install pipwin` then `pipwin install pyaudio` into the project folder
+Run `pip install pipwin` then `pipwin install pyaudio` into the project folder.
 
 ### Mac, \*Nix
 Run `pip install -r requirements.txt` into the project folder.
